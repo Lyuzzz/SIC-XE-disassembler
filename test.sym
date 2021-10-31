@@ -1,0 +1,11 @@
+Symbol  Address Flags:
+-----------------------
+START   000000  R
+SINGLE  000007  R
+SPACEA  000008  R
+SPACEB  0007D8  R
+FINAL   000FA8  R
+
+Name    Lit_Const  Length Address:
+------------------------------
+        =X'7D'      2   000006
