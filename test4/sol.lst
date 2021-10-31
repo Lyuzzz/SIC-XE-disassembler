@@ -1,0 +1,10 @@
+0000 TESTXE  START   0                         
+0000 START   LDX     #0            050000      
+0003         LDA     =X'7D'        032000      
+             LTORG                             
+0006         *       =X'7D'        7D          
+0007 SINGLE  RESB    1                         
+0008 SPACEA  RESB    2000                      
+07D8 SPACEB  RESB    2000                      
+0FA8 FINAL   RESB    1                         
+             END     TESTXE
